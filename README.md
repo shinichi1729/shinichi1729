@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🏫 I am a M1 student majoring in Intelligence Science and Tecknology at the graduate school of Kyoto University.
+- 🏫 I'm a M1 student majoring in Intelligence Science and Tecknology at the graduate school of Kyoto University.
 - 🌱 I'm currently learning and researching NLP (Natural Processing Languages) at [Kurohashi Lab](https://nlp.ist.i.kyoto-u.ac.jp/).
+- 💻 I enjoy taking part in competitive programming
+- - aa
 
 <!--
 **shinichi1729/shinichi1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
