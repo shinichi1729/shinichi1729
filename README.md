@@ -2,7 +2,7 @@
 - 🏫 I'm a M1 student majoring in Intelligence Science and Tecknology at the graduate school of Kyoto University.
 - 🌱 I'm currently learning and researching NLP (Natural Language Processing) at [Kurohashi Lab](https://nlp.ist.i.kyoto-u.ac.jp/).
 - 💻 I enjoy taking part in competitive programming. ![me](https://badgen.org/img/atcoder/shinichi1729/rating/algorithm?style=flat)
-
+For more details, please visit [here](https://shinichi1729.github.io/).
 <!--
 **shinichi1729/shinichi1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
